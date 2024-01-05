@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "import_export_lvl2_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suat Ucar",
+  "license": "ISC"
+}
